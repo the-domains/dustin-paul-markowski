@@ -1,0 +1,28 @@
+name: DUSTIN PAUL MARKOWSKI
+favicon: null
+layout_spectrum: 0.4382794557604939
+typography_spectrum: 0.2095220210030675
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7379301327746361
+  lightness: 0.6657895538955927
+  saturation: 0.3379882725421339
+  rhythmicContrast: 0.0018403090070933104
+purpose: []
